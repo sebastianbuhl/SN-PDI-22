@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Branch Configuration" max_length="40" name="x_590562_uc_13_1_0_branch_configuration" sizeclass="3" type="collection">
+        <element label="Branch Decision" max_length="40" name="branch_decision" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

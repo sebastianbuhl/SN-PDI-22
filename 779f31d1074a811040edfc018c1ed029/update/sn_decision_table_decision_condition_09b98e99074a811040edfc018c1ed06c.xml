@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="HCP Participation">18b94e99074a811040edfc018c1ed0eb</decision_input>
+        <decision_table display_value="Sponsorship Matrix - Template">e1774e19074a811040edfc018c1ed0f6</decision_table>
+        <default_operator>=</default_operator>
+        <description/>
+        <field/>
+        <field_label/>
+        <field_parent_table/>
+        <label>Will HCP Attend</label>
+        <order>200</order>
+        <reference/>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-04 13:02:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>09b98e99074a811040edfc018c1ed06c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="UC 13/14 Demo" source="x_590562_uc_13_1_0">779f31d1074a811040edfc018c1ed029</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UC 13/14 Demo">779f31d1074a811040edfc018c1ed029</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_09b98e99074a811040edfc018c1ed06c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-04 13:02:41</sys_updated_on>
+        <type display_value="True/False">17d3ba81bf3320001875647fcf0739dc</type>
+    </sn_decision_table_decision_condition>
+</record_update>

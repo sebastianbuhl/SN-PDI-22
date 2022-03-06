@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="branch_decision" label="Branch Decision" language="en" table="x_590562_uc_13_1_0_branch_configuration">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>branch_decision</element>
+            <help/>
+            <hint/>
+            <label>Branch Decision</label>
+            <language>en</language>
+            <name>x_590562_uc_13_1_0_branch_configuration</name>
+            <plural>Branch Decisions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:01:41</sys_created_on>
+            <sys_id>e6794a99074a811040edfc018c1ed062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Branch Decision</sys_name>
+            <sys_package display_value="UC 13/14 Demo" source="x_590562_uc_13_1_0">779f31d1074a811040edfc018c1ed029</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UC 13/14 Demo">779f31d1074a811040edfc018c1ed029</sys_scope>
+            <sys_update_name>sys_documentation_x_590562_uc_13_1_0_branch_configuration_branch_decision_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:01:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

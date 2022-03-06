@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>c2e902d9074a811040edfc018c1ed0ea</answer>
+        <condition table="var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6">u_product_type=sponsoring_not_related_to_bayer_products^u_hcp_participation=false^u_po_organizer=true^EQ<item display_value="Sponsoring is not related to Bayer products" endquery="false" field="u_product_type" goto="false" newquery="false" operator="=" or="false" value="sponsoring_not_related_to_bayer_products"/>
+            <item endquery="false" field="u_hcp_participation" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="false" field="u_po_organizer" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Sponsorship Matrix - Template">e1774e19074a811040edfc018c1ed0f6</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</input_table>
+        <label>Sponsorship Matrix - Template_2300</label>
+        <order>2300</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-04 13:09:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>493b021d074a811040edfc018c1ed08f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sponsorship Matrix - Template_2300</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UC 13/14 Demo" source="x_590562_uc_13_1_0">779f31d1074a811040edfc018c1ed029</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UC 13/14 Demo">779f31d1074a811040edfc018c1ed029</sys_scope>
+        <sys_update_name>sys_decision_question_493b021d074a811040edfc018c1ed08f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-04 13:48:05</sys_updated_on>
+    </sys_decision_question>
+</record_update>

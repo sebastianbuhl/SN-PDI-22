@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_product_type" label="Product Type" language="en" table="var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_product_type</element>
+            <help/>
+            <hint/>
+            <label>Product Type</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <plural>Product Type</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:37</sys_created_on>
+            <sys_id>c8b94e99074a811040edfc018c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product Type</sys_name>
+            <sys_package display_value="UC 13/14 Demo" source="x_590562_uc_13_1_0">779f31d1074a811040edfc018c1ed029</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UC 13/14 Demo">779f31d1074a811040edfc018c1ed029</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6_u_product_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

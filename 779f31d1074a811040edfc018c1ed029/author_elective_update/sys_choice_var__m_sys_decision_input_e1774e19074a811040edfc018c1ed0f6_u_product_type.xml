@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_product_type" table="var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_product_type</element>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_id>64b98e99074a811040edfc018c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_product_type</sys_name>
+            <sys_package display_value="UC 13/14 Demo" source="x_590562_uc_13_1_0">779f31d1074a811040edfc018c1ed029</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UC 13/14 Demo">779f31d1074a811040edfc018c1ed029</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6_u_product_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prescription Drugs</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28b98e99074a811040edfc018c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+            <value>prescription_drug</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OTC Drugs</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4b98e99074a811040edfc018c1ed029</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+            <value>otc_drug</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cosmetics</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0b98e99074a811040edfc018c1ed02c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+            <value>cosmetic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food Supplements</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cb98e99074a811040edfc018c1ed02e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+            <value>food_supplement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crop Science Products</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28b98e99074a811040edfc018c1ed031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:39</sys_updated_on>
+            <value>crop_science</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_product_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sponsoring is not related to Bayer products</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_e1774e19074a811040edfc018c1ed0f6</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-04 13:02:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0b98e99074a811040edfc018c1ed034</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-04 13:02:40</sys_updated_on>
+            <value>sponsoring_not_related_to_bayer_products</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
