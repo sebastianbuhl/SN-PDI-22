@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="UC13/14 TEST load" max_length="40" name="x_590562_uc_13_1_0_import_dec_spr" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Branch" label="Branch" max_length="40" name="u_branch" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Branch Label" label="Branch Label" max_length="40" name="u_branch_label" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HCP" label="HCP" max_length="40" name="u_hcp" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PO" label="PO" max_length="40" name="u_po" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+    </element>
+</database>
